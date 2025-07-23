@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Medicare - Healthcare Booking Platform
 
 A modern, full-stack healthcare booking platform built with React.js and Firebase, designed specifically for the Indian healthcare market.
@@ -46,18 +43,17 @@ A modern, full-stack healthcare booking platform built with React.js and Firebas
 - **Firebase Authentication** - User authentication and management
 - **Cloud Firestore** - NoSQL database for real-time data
 - **Firebase Storage** - File storage for images and documents
-- **Firebase Hosting** - Fast, secure web hosting
 
 ### Additional Services
-- **Google Meet/Zoom** - Video consultation integration
+- **Google Meet** - Video consultation integration
 - **Email Services** - Appointment reminders and notifications
-- **Payment Gateways** - Indian payment methods integration
+- **Payment Gateways** - Payment methods integration
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher)
-- npm or yarn
+- npm
 - Firebase account
 
 ### Installation
@@ -260,12 +256,3 @@ For support, email support@medicare.com or join our Slack channel.
 ---
 
 **Made with ❤️ for the Indian Healthcare System**
-=======
-# Medicare
->>>>>>> 5e9ae1c78249f8ac6fb6666134c629857c116420
-=======
-# Medicare
->>>>>>> 5e9ae1c78249f8ac6fb6666134c629857c116420
-=======
-# Medicare
->>>>>>> 5e9ae1c78249f8ac6fb6666134c629857c116420
