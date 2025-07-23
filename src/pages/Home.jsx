@@ -39,7 +39,7 @@ const Home = () => {
       location: "Mumbai, Maharashtra",
       rating: 4.9,
       experience: "15 years",
-      image: "https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=400"
+      image: "https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     {
       id: 2,
@@ -48,7 +48,7 @@ const Home = () => {
       location: "Delhi, NCR",
       rating: 4.8,
       experience: "12 years",
-      image: "https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=400"
+      image: "https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
     {
       id: 3,
@@ -57,7 +57,7 @@ const Home = () => {
       location: "Bangalore, Karnataka",
       rating: 4.7,
       experience: "18 years",
-      image: "https://images.pexels.com/photos/6749778/pexels-photo-6749778.jpeg?auto=compress&cs=tinysrgb&w=400"
+      image: "https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=400"
     }
   ];
 
@@ -502,7 +502,7 @@ const Home = () => {
               <MapPin className="h-12 w-12 text-purple-600 mx-auto mb-4" />
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Visit Us</h3>
               <p className="text-gray-600">123 Health Street</p>
-              <p className="text-gray-600">Mumbai, Maharashtra</p>
+              <p className="text-gray-600">Uttar Pradesh</p>
             </div>
           </div>
         </div>
@@ -555,8 +555,8 @@ const Home = () => {
               <ul className="space-y-2">
                 <li className="text-gray-400">+91 98765 43210</li>
                 <li className="text-gray-400">support@medicare.com</li>
-                <li className="text-gray-400">123 Health Street, Mumbai</li>
-                <li className="text-gray-400">Maharashtra, India</li>
+                <li className="text-gray-400">Banaras, Uttar Pradesh</li>
+                <li className="text-gray-400">Uttar Pradesh, India</li>
               </ul>
             </div>
           </div>
